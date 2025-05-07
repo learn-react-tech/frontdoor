@@ -1,11 +1,17 @@
 # Front door
 
-You are standing before a large, weather-worn door.
+You approach a strange gateway shimmering at the edge of the Web.
 
-Thick vines cling to the stone archway, their tendrils frozen in time. The wood is ancient, darkened by rain and dust, etched with symbols you don’t recognize—yet somehow, they feel familiar. A brass knocker, shaped like a lion’s head, rests silently in the center. The wind rustles behind you, urging you forward.
+It stands tall—crafted from lines of code and bound by the laws of the virtual. The door is framed in components, each one nested perfectly within the other. At its center glows a strange rune: useEffect()—a call to action, or perhaps a warning.
 
-The door is shut.
-A chill creeps up your spine.
-What do you do?
+The air crackles with static. Somewhere, far beneath your feet, a build process begins to run.
+
+You feel the weight of uninitialized state.
+A routing path lies undefined.
+The interface awaits interaction.
+
+To enter is to commit. To stay is to render nothing.
+
+Will you open the Frontdoor?
 
 :_
